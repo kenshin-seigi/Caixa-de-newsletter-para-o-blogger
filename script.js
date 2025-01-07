@@ -18,7 +18,7 @@ document.getElementById(&#39;form-newsletter&#39;).addEventListener(&#39;submit&
 
   const email = document.getElementById(&#39;email-input&#39;).value;
 
-  fetch(&#39;https://formspree.io/f/xkggpegz&#39;, {
+  fetch(&#39;https://formspree.io/f/forms-id&#39;, {
 
     method: &#39;POST&#39;,
 
