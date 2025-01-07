@@ -1,0 +1,111 @@
+#newsletter-container {
+
+  max-width: 300px;
+
+  margin: 40px auto;
+
+  height: 250px;
+
+  text-align: center;
+
+  background-color: green;
+
+  padding: 20px;
+
+  border: 5px solid white;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  border-radius: 10px;
+
+  position: fixed;
+
+  bottom: 90px;
+
+  right: 20px;
+      
+  z-index: 8000;
+
+
+}
+
+#titulo-newsletter {
+
+  color: black;
+
+  font-weight: bold;
+
+  margin-bottom: 20px;
+
+  font-size: 18px;
+
+}
+
+#label-email {
+
+  color: black;
+
+  font-weight: bold;
+
+  display: block;
+
+  margin-bottom: 10px;
+
+}
+
+#email-input {
+      
+  color:black;
+      
+  font-weight:bold;
+
+  width: 90%;
+
+  height: 30px;
+
+  padding: 10px;
+
+  border: 5px solid black;
+
+  border-radius: 20px;
+
+}
+
+#botao-assinar {
+
+  margin-top: 10px;
+
+  background-color: black;
+
+  color: #fff;
+
+font-weight: bold;
+
+  padding: 10px 20px;
+
+  border: 5px solid white;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  margin-bottom: 5px;
+
+}
+
+#fechar {
+  
+  color:white;
+      
+  background-color:black;
+
+  position: absolute;
+
+  top: 10px;
+
+  right: 10px;
+      
+  cursor:point;
+
+}
+
