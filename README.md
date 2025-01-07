@@ -18,6 +18,6 @@ Instalação
 
 #
 
-<h3 align="center">Você pode ver o resultado olhando esse blog <a href="https://kenshin-seigi.site">BLOG PESSOAL</a> </h3>
+<h3 align="center">Você pode ver o resultado olhando o blog do <a href="https://kenshin-seigi.site">Kenshin Seigi</a> </h3>
 
 
