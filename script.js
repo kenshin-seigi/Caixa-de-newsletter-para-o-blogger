@@ -1,40 +1,21 @@
-setTimeout(() =&gt; {
+setTimeout(() => {
+    document.getElementById('newsletter-container').style.display = 'block';
+  }, 2000);
 
-  document.getElementById(&#39;newsletter-container&#39;).style.display = &#39;block&#39;;
-
-  document.getElementById(&#39;fechar&#39;).addEventListener(&#39;click&#39;, function() {
-
-    document.getElementById(&#39;newsletter-container&#39;).style.display = &#39;none&#39;;
-
+  document.getElementById('fechar').addEventListener('click', () => {
+    document.getElementById('newsletter-container').style.display = 'none';
   });
 
-}, 2000);
-
-document.getElementById(&#39;form-newsletter&#39;).addEventListener(&#39;submit&#39;, (e) =&gt; {
-         
-         
-
-  e.preventDefault();
-
-  const email = document.getElementById(&#39;email-input&#39;).value;
-
-  fetch(&#39;https://formspree.io/f/forms-id&#39;, {
-
-    method: &#39;POST&#39;,
-
-    body: JSON.stringify({ email }),
-
-    headers: { &#39;Content-Type&#39;: &#39;application/json&#39; }
-
-  })
-
-then((res) =&gt; res.json())
-
-  .then((data) =&gt; console.log(&#39;E-mail enviado:&#39;, data))
-
-  .catch((err) =&gt; console.error(&#39;Erro:&#39;, err));
-
-
-  document.getElementById(&#39;newsletter-container&#39;).style.display = &#39;none&#39;;
-
-});
+  document.getElementById('form-newsletter').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const email = document.getElementById('email-input').value;
+    fetch('https://formspree.io/f/formspree-id', {
+      method: 'POST',
+      body: JSON.stringify({ email }),
+      headers: { 'Content-Type': 'application/json' }
+    })
+    .then((res) => res.json())
+    .then((data) => console.log('E-mail enviado:', data))
+    .catch((err) => console.error('Erro:', err));
+    document.getElementById('newsletter-container').style.display = 'none';
+  });
