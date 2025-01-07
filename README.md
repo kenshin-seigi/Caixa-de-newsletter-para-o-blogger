@@ -19,5 +19,5 @@ Instalação
 #
 
 <h3 align="center">Você pode ver o resultado olhando esse blog</h3>
-<a align="center" href="https://kenshin-seigi.site">BLOG PESSOAL</a>
+<a text-align="center" href="https://kenshin-seigi.site">BLOG PESSOAL</a>
 
