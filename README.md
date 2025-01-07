@@ -1,6 +1,6 @@
 <h1 align="center">Experimento de códigos!</h1>
 
-<p align="center">Código de Registro de E-mail para Blogger
+<p text-align="center">Código de Registro de E-mail para Blogger
 Este código abre uma caixa de registro de e-mail automaticamente quando um visitante entra no site, permitindo que eles se inscrevam para receber notificações de novidades.
 
 Requisitos
