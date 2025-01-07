@@ -38,10 +38,3 @@ then((res) =&gt; res.json())
   document.getElementById(&#39;newsletter-container&#39;).style.display = &#39;none&#39;;
 
 });
-         
-document.getElementById(&#39;botao-submit&#39;).addEventListener(&#39;click&#39;, function() {
-
-  document.getElementById(&#39;obrigado&#39;).style.display = &#39;block&#39;;
-
-});
-
