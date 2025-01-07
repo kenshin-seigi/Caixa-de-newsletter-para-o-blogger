@@ -16,3 +16,8 @@ Instalação
 
 <h2 align="center">Contribuições são bem vindas! 🤗</h2>
 
+#
+
+<h3 align="center">Você pode ver o resultado olhando esse blog</h3>
+<a align="center" href="https://kenshin-seigi.site">BLOG PESSOAL</a>
+
