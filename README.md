@@ -18,7 +18,12 @@ Instalação
 
 #
 
-<h3 align="center">Você pode ver o resultado olhando o blog do <a href="https://kenshin-seigi.site">Kenshin Seigi</a> </h3>
+<h3 align="center">Você pode ver o resultado olhando o blog do <a href="https://kenshin-seigi.site">Kenshin Seigi</a></h3>
+
+#
+
+<p align="center"> <b>Eu sei que ainda tenho muito a aprender, mas quero compartilhar este código que me deixou muito feliz por ter funcionado! Se você encontrar algum erro e tiver um tempinho para ensinar um iniciante, eu adoraria receber seus conselhos e orientações. 😁🤗😍</b></p>
+
 
 #
 
@@ -31,7 +36,3 @@ Instalação
 <h1 align="center"> Essa é a versão mobile</h1>
 <br>
 <img src="https://i.ibb.co/DGdtXkk/IMG-20250110-004113.jpg" width="100%" height="auto"/>
-
-#
-
-<p align="center"> <b>Eu sei que ainda tenho muito a aprender, mas quero compartilhar este código que me deixou muito feliz por ter funcionado! Se você encontrar algum erro e tiver um tempinho para ensinar um iniciante, eu adoraria receber seus conselhos e orientações. 😁🤗😍</b></p>
