@@ -22,13 +22,15 @@ Instalação
 
 #
 
-<h2 align="center"> Essa é a versão desktop do newsletter</h2>
-<img src="https://i.ibb.co/7CbMjcv/Screenshot-20250110-003521.png" width="100%" height="auto"/>
+<h1 align="center"> Essa é a versão desktop do newsletter</h1>
+<br>
+<img src="https://i.ibb.co/2dHRFnp/IMG-20250110-003537.jpg" width="100%" height="auto"/>
 
 #
 
-<h2 align="center"> Essa é a versão mobile</h2>
-<img src="https://i.ibb.co/yg5BgTV/Screenshot-20250110-004055.png" width="100%" height="auto"/>
+<h1 align="center"> Essa é a versão mobile</h1>
+<br>
+<img src="https://i.ibb.co/DGdtXkk/IMG-20250110-004113.jpg" width="100%" height="auto"/>
 
 #
 
