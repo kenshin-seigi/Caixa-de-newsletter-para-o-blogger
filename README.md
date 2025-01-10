@@ -25,4 +25,11 @@ Instalação
 <h2 align="center"> Essa é a versão desktop do newsletter</h2>
 <img src="https://i.ibb.co/7CbMjcv/Screenshot-20250110-003521.png" width="100%" height="auto"/>
 
+#
 
+<h2 align="center"> Essa é a versão mobile</h2>
+<img src="https://i.ibb.co/yg5BgTV/Screenshot-20250110-004055.png" width="100%" height="auto"/>
+
+#
+
+<p align="center"> <b>Eu sei que ainda tenho muito a aprender, mas quero compartilhar este código que me deixou muito feliz por ter funcionado! Se você encontrar algum erro e tiver um tempinho para ensinar um iniciante, eu adoraria receber seus conselhos e orientações. 😁🤗😍</b></p>
