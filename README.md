@@ -20,4 +20,9 @@ Instalação
 
 <h3 align="center">Você pode ver o resultado olhando o blog do <a href="https://kenshin-seigi.site">Kenshin Seigi</a> </h3>
 
+#
+
+<h2 align="center"> Essa é a versão desktop do newsletter</h2>
+<img src="https://i.ibb.co/7CbMjcv/Screenshot-20250110-003521.png" width="100%" height="auto"/>
+
 
