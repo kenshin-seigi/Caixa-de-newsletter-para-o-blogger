@@ -18,7 +18,7 @@ document.getElementById('fechar').addEventListener('click', () => {
 document.getElementById('form-newsletter').addEventListener('submit', (e) => {
   e.preventDefault();
   const email = document.getElementById('email-input').value;
-  fetch('https://formspree.io/f/xkggpegz', {
+  fetch('https://formspree.io/f/id-formulario', {
     method: 'POST',
     body: JSON.stringify({ email }),
     headers: { 'Content-Type': 'application/json' }
